@@ -66,7 +66,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://medium.com/@ramdevjegan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+    <img src="https://img.icons8.com/?size=100&id=XVNvUWCvvlD9&format=png&color=000000" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
 
